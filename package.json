@@ -1,7 +1,7 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/WeatherRadar/icon_stroke_weather_weatherradar.svg",
   "tag": "qa",
-  "affiliates":["kotv"],
+  "affiliates":["kotv_disabled_talk_to_matt"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
